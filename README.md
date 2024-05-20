@@ -15,8 +15,8 @@
 </ol>
 
 ## Program :
-### NAME : SASIDEVI.V
-### REG NO : 212222230136
+### NAME : GURUMOORTHI R
+### REG NO : 212222230042
 ```
 M = 9
 def puzzle(a):
